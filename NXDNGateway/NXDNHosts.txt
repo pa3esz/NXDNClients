@@ -18,6 +18,9 @@
 # 204 Netherlands
 204 nxdn.repeaters-haaglanden.nl 41400
 
+# 20424 Rijnmond
+20424 nxdn.pa7lim.nl 41400
+
 # 214 RED SPAIN
 214 nxdn214.xreflector.es 41400
 
